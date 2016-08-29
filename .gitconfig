@@ -1,0 +1,11 @@
+[user]
+	name = djole
+	email = djordje_7@hotmail.com
+
+[alias]
+        co = checkout
+        c = commit
+        p = push
+        s = status
+        l = log
+        b = branch
