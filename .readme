@@ -1,0 +1,5 @@
+1. zsh themes
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+2. brew install tmux
+3. download tmux plugin manager
+4. install powerline fonts for zsh themes
